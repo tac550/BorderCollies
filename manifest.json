@@ -1,6 +1,6 @@
 ﻿{
   "name" : "Border Collies!",
-  "version" : "1.0",
+  "version" : "1.1",
   "description": "Instantly makes your webpages more cute.",
   "author": "Thomas Crosby",
 
@@ -19,7 +19,7 @@
     "default_title": "Border Collies!"
   },
 
-  "permissions": [ "tabs", "activeTab", "http://www.dog-learn.com/dog-breeds/border-collie/images/border-collie-u1.jpg" ],
+  "permissions": [ "tabs", "activeTab", "https://storybookstorage.s3.amazonaws.com/items/images/000/109/432/original/68747470733a2f2f7261772e6769746875622e636f6d2f726576616e736f706865722f676162656e697a65722f6d61737465722f676162656e2e706e67.png?1433988538" ],
   
   "manifest_version": 2
 }
